@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/automobile-poc-demo/static/css/main.78fefe1d.css",
-    "main.js": "/automobile-poc-demo/static/js/main.db5b24c9.js",
+    "main.js": "/automobile-poc-demo/static/js/main.b93b2721.js",
     "static/js/787.fd7e0520.chunk.js": "/automobile-poc-demo/static/js/787.fd7e0520.chunk.js",
     "index.html": "/automobile-poc-demo/index.html",
     "main.78fefe1d.css.map": "/automobile-poc-demo/static/css/main.78fefe1d.css.map",
-    "main.db5b24c9.js.map": "/automobile-poc-demo/static/js/main.db5b24c9.js.map",
+    "main.b93b2721.js.map": "/automobile-poc-demo/static/js/main.b93b2721.js.map",
     "787.fd7e0520.chunk.js.map": "/automobile-poc-demo/static/js/787.fd7e0520.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78fefe1d.css",
-    "static/js/main.db5b24c9.js"
+    "static/js/main.b93b2721.js"
   ]
 }
