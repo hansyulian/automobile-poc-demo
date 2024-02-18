@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://hansyulian.github.io/automobile-poc-demo/static/css/main.a64c6869.css",
-    "main.js": "https://hansyulian.github.io/automobile-poc-demo/static/js/main.baf5cf44.js",
+    "main.js": "https://hansyulian.github.io/automobile-poc-demo/static/js/main.e9ad778f.js",
     "static/js/112.92c0bb3d.chunk.js": "https://hansyulian.github.io/automobile-poc-demo/static/js/112.92c0bb3d.chunk.js",
     "static/js/787.fd7e0520.chunk.js": "https://hansyulian.github.io/automobile-poc-demo/static/js/787.fd7e0520.chunk.js",
     "index.html": "https://hansyulian.github.io/automobile-poc-demo/index.html",
     "main.a64c6869.css.map": "https://hansyulian.github.io/automobile-poc-demo/static/css/main.a64c6869.css.map",
-    "main.baf5cf44.js.map": "https://hansyulian.github.io/automobile-poc-demo/static/js/main.baf5cf44.js.map",
+    "main.e9ad778f.js.map": "https://hansyulian.github.io/automobile-poc-demo/static/js/main.e9ad778f.js.map",
     "112.92c0bb3d.chunk.js.map": "https://hansyulian.github.io/automobile-poc-demo/static/js/112.92c0bb3d.chunk.js.map",
     "787.fd7e0520.chunk.js.map": "https://hansyulian.github.io/automobile-poc-demo/static/js/787.fd7e0520.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a64c6869.css",
-    "static/js/main.baf5cf44.js"
+    "static/js/main.e9ad778f.js"
   ]
 }
